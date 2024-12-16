@@ -44,7 +44,9 @@ The assistant is built using **Google Colab**, enabling quick experimentation, s
 ---
 
 ## Project Link
-**https://colab.research.google.com/drive/1oieLGGrD0PPnSXoRv2zlx50iSPXhut3e?usp=sharing
+
+**Check It Out
+https://colab.research.google.com/drive/1oieLGGrD0PPnSXoRv2zlx50iSPXhut3e?usp=sharing
 
 ---
 ## Contact 📬
