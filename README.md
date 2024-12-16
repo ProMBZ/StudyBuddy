@@ -8,12 +8,16 @@ StudyBuddy is an AI-powered assistant designed to help students with studying, e
 ## Technology Stack 🛠️
 
 ### Tavily (🔎)
-<img src="path/to/tavily-logo.png" alt="Tavily Logo" width="120">  
+<img src="https://media.licdn.com/dms/image/v2/D4D0BAQEBo8xFnt9JVA/company-logo_200_200/company-logo_200_200/0/1727983378239/tavily_logo?e=2147483647&v=beta&t=g5QE2PczK2BZP5DcgKmIQGfEpoRoCKfKFgO7fHJnTxg" alt="Tavily Logo" width="120">  
 StudyBuddy integrates **Tavily API** to fetch live, up-to-date research data on any topic, ensuring accurate and reliable information for assignments and projects.
 
 ### Google Colab (☁️)
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Google_Colab_logo_2021.svg" alt="Google Colab Logo" width="120">  
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvyuHWMd6UOi4d_oVuHTBZsGvS7kG6TFK2yQ&s" alt="Google Colab Logo" width="120">  
 The assistant is built using **Google Colab**, enabling quick experimentation, seamless API integration, and collaborative development in the cloud.
+
+### Gemini (💡)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThr7qrIazsvZwJuw-uZCtLzIjaAyVW_ZrlEQ&s" alt="Gemini Logo" width="120">  
+**Gemini AI** powers StudyBuddy’s academic capabilities, answering student queries, explaining concepts, and providing detailed guidance with advanced AI-driven responses.
 
 ---
 
