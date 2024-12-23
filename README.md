@@ -45,8 +45,14 @@ The assistant is built using **Google Colab**, enabling quick experimentation, s
 
 ## Project Link
 
-**Check It Out
+** Chat-Agent
 https://colab.research.google.com/drive/1oieLGGrD0PPnSXoRv2zlx50iSPXhut3e?usp=sharing
+
+** User-Chat-Interection
+https://colab.research.google.com/drive/1UrfDIpISBYDBtKX6zU8J2E10xmFHkmlI#scrollTo=2bo6Qg0MLboT
+
+** Browsing-Agent
+https://colab.research.google.com/drive/1yY3fXNHw7rVRScMVg0rwQ7eT5YQ8EccS#scrollTo=JHJiruXHTJjx&uniqifier=1
 
 ---
 ## Contact 📬
